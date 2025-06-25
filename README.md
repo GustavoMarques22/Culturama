@@ -15,6 +15,10 @@
 * 📐 Grid Layout
 * 📦 Flexbox
 
+  ## Veja o AluraBooks em Ação\! 👀
+
+![Captura de tela da aplicação do Culturama](assets/img/Culturama.png/)
+
 **🚀 Como Executar o Projeto:**
 
 Instruções simples para baixar e abrir o projeto no navegador.
