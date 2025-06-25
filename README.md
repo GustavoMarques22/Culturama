@@ -19,14 +19,6 @@
 
 ![Captura de tela da aplicação do Culturama](assets/img/Culturama.png/)
 
-**🚀 Como Executar o Projeto:**
-
-Instruções simples para baixar e abrir o projeto no navegador.
-
-**📂 Estrutura de Pastas:**
-
-Uma breve descrição de como os arquivos estão organizados no projeto.
-
 **🙏 Créditos:**
 
 Agradeço aos instrutores do curso (Beatriz Moura e Luan Alves) pelo aprendizado.
