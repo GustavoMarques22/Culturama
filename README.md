@@ -10,7 +10,7 @@
 
 **💻 Tecnologias Utilizadas:**
 
-* <0xF0><0x9F><0x92><0xBB> HTML
+*  HTML
 * 🎨 CSS
 * 📐 Grid Layout
 * 📦 Flexbox
